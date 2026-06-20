@@ -15,7 +15,7 @@ The architecture is here too — LangGraph orchestration, a multi-provider routi
 
 This is a reference design. The support-agent figures below (cost per resolution, automation rate, latency) are **design targets**, not production results.
 
-The judgment behind them comes from real work: building a multi-tenant LLM platform, a cascaded multi-provider inference pipeline that cut cost ~70% against a managed baseline and became an org-wide reference, and an agentic on-call system that took on-call load down ~50% — plus a decade embedded with enterprise customers and several years running engineering teams as a manager-of-managers. Where I draw on that, I say so. I'd rather be transparent about what's designed vs. shipped than dress a portfolio up as something it isn't.
+The judgment behind them comes from real work: building a multi-tenant LLM platform, a cascaded multi-provider inference pipeline that cut cost ~70% against a managed baseline and became an org-wide reference, and an agentic on-call system that took on-call load down ~50% — plus a decade embedded with enterprise customers and several years running engineering teams . Where I draw on that, I say so. I'd rather be transparent about what's designed vs. shipped than dress a portfolio up as something it isn't.
 
 ---
 
